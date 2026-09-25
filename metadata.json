@@ -1,0 +1,7 @@
+{
+  "name": "Biblioteca Digital - I.E. Marco Fidel Suárez",
+  "description": "Plataforma pública de biblioteca digital y recursos educativos de la Institución Educativa Marco Fidel Suárez de Gualanday, Coello, Tolima.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
